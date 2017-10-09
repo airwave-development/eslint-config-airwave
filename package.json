@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-react-app",
+  "version": "2.0.1",
+  "description": "ESLint configuration used by Create React App",
+  "repository": "https://github.com/airwave-development/eslint-config-airwave.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airwave-development/eslint-config-airwave/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.1.1",
+    "eslint-plugin-flowtype": "^2.34.1",
+    "eslint-plugin-import": "^2.6.0",
+    "eslint-plugin-jsx-a11y": "6.0.2",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
