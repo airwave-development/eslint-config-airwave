@@ -117,7 +117,7 @@ module.exports = {
         'comma-dangle': ['error', 'never'],
         'semi': ['error', 'always'],
         'newline-per-chained-call': 'off',
-        'indent': ['error', 'tab', { 'MemberExpression': 0 }]
+        'indent': ['error', 'tab', { 'MemberExpression': 0 }],
         'array-callback-return': 'warn',
         'default-case': ['warn', {
             'commentPattern': '^no default$'
