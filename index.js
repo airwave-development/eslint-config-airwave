@@ -116,6 +116,9 @@ module.exports = {
         ],
         'comma-dangle': ['error', 'never'],
         'semi': ['error', 'always'],
+        'indent': ['error', 'tab', {
+            'MemberExpression': 0
+        }]
         // http://eslint.org/docs/rules/
         'array-callback-return': 'warn',
         'default-case': ['warn', {
