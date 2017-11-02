@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-airwave",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "ESLint configuration used by Create React App",
   "repository": "https://github.com/airwave-development/eslint-config-airwave.git",
   "license": "MIT",
