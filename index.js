@@ -108,15 +108,6 @@ module.exports = {
 	},
 
 	rules: {
-		strict: [0, 'global'],
-		'max-len': [
-			2,
-			{
-				code: 2000
-			}
-		],
-		'comma-dangle': ['error', 'never'],
-		semi: ['error', 'always'],
 		'array-callback-return': 'warn',
 		'default-case': [
 			'warn',
